@@ -1,0 +1,8 @@
+dist.jest
+.jest
+src/ui/assests/*
+yarn.lock
+.gitignore
+.gitattributes
+.eslintignore
+coverage
